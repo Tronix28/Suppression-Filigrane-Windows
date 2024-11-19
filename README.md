@@ -1,3 +1,8 @@
+![GitHub all releases](https://img.shields.io/github/downloads/Tronix28/Suppression-Filigrane-Windows/total)
+
+![Tronix (2)](https://github.com/user-attachments/assets/74ca6c59-936d-40f9-bd98-20175bdccad3)
+
+
 Fonctionnalités du script :
 
 1. Suppression du filigrane
